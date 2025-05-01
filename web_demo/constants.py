@@ -1,4 +1,4 @@
-MODEL_PATH = "./Baichuan-Audio-chat"
+MODEL_PATH = "./Baichuan-Audio-Instruct"
 COSY_VOCODER = "../third_party/cosy24k_vocoder"
 g_cache_dir = "../cache"
 sampling_rate = 24000
